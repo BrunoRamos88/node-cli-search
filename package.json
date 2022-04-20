@@ -1,0 +1,14 @@
+{
+    "name": "search-files-cli", 
+    "version": "1.0.0", 
+    "description": "Example of CLI that search files in directories",
+    "preferGlobal": true, 
+    "bin": {
+        "search-files": "./bin/search-files-cli"
+    }, 
+    "files": [
+        "./bin"
+    ], 
+    "keywords": [], 
+    "author": "Bruno Ramos"
+}
